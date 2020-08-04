@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "shankey-demo-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog just to learn ",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Mragang Jain <shankeyjain70000@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/Shankey9425/shankey-demo-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
